@@ -1,0 +1,9 @@
+Django==4.0
+dr-scaffold==2.1.*
+djangorestframework==3.12.*
+django-seed==0.3.*
+python-decouple==3.5
+django-extensions==3.1.*
+# pyscopg2-binary==2.9.* It's necessary to install for django-seed works well. But on Windows 10, maybe it's not necessary.
+drf-yasg==1.20.*
+pytz
